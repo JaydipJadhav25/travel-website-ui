@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Island+Moments&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
 
+
+
+
 :root {
   --primary-color: #ff7e01;
   --secondary-color: #faa935;
@@ -21,12 +24,16 @@ body {
   padding-top: 90px;
   font-family: var(--font-name);
   margin: 0;         /* FIXED */
+  /* width: 100vw;
+  height: 100vh; */
+  /* overflow: hidden; */
+  
 }
 
-
+/* 
 section {
   padding: 50px 0px;
-}
+} */
 
 h1,
 h2,

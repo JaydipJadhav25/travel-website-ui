@@ -7,6 +7,7 @@ import heroVideo from '../assets/images/hero-video.mp4'
 import experinceImg from '../assets/images/experience.png'
 
 
+
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 
@@ -34,8 +35,8 @@ const Home = () => {
   return (
     <>
       {/*============== Hero Start==========*/}
-      <section>
-        <Container>
+      <section >
+        <Container >
           <Row>
             {/* The main hero content will fade up */}
             <Col lg='6'>
